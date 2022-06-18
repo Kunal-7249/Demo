@@ -1,0 +1,2 @@
+This is just a demo to use git from command line !
+
